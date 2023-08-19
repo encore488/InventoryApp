@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChristopherWilliamsInventory</string>
+    <string name="warning">Warning</string>
+    <string name="warning_message">Inventory for this item has reached zero!</string>
+    <string name="ok">OK</string>
+
+</resources>
